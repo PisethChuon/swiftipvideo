@@ -16,7 +16,7 @@ The video has no sound. You add a sound inside TikTok when you post.
 
 ## Requirements
 
-- Python 3
+- Python 3 
 - Pillow (draws the pictures)
 - ffmpeg (makes the video file)
 
