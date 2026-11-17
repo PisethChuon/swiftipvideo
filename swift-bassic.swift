@@ -1,6 +1,3 @@
-let possibleNumber = "123"
-let convertedNumber = Int(possibleNumber)
-
-if convertedNumber != nil {
-    print("value")
-}
+let name: String? = "Piseth"
+let greeting = "Hello, " + (name ?? "friend") + "!"
+print(greeting)
