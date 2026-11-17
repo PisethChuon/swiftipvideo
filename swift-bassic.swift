@@ -1,4 +1,6 @@
 let possibleNumber = "123"
 let convertedNumber = Int(possibleNumber)
 
-print(convertedNumber)
+if convertedNumber != nil {
+    print("value")
+}
