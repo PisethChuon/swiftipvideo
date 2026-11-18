@@ -1,0 +1,135 @@
+{
+  "style": "2D flat cartoon storybook illustration, warm earthy colors, soft shading, clean outlines, simple background, children's book style, 16:9",
+  "characters": {
+    "father": "middle-aged Indian village man, black mustache, cream kurta, brown trousers, kind face",
+    "son": "teenage Indian boy, messy black hair, orange t-shirt, blue shorts, carefree face",
+    "shopkeeper": "elderly Indian man, white beard, round glasses, grey vest, sitting at a watch repair bench",
+    "watch": "round brass pocket watch with a white face and a short chain"
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "title": "The worried father",
+      "location": "village",
+      "narration": "Once upon a time there lived a man in a small village. He was very worried about his son. His son was lazy and careless. He never worked. He just wandered here and there in the village all day long.",
+      "images": [
+        "father standing in front of a small village house, looking worried",
+        "son wandering alone on a village path, hands behind his head, looking carefree"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Bring me the watch",
+      "location": "home",
+      "narration": "One day the man decided to teach his son a lesson. He called his son to him. He said gently, \"Son, there is a watch kept inside the cupboard. Bring it to me.\"",
+      "images": [
+        "father sitting in a simple room, calling his son with a gentle hand gesture"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Go to the market",
+      "location": "home",
+      "narration": "The boy went and opened the cupboard. He took out the watch and came back to his father. The father looked at the watch and then said, \"Now take this watch to the market. Ask everyone you meet how much they think it is worth.\"",
+      "images": [
+        "son opening a wooden cupboard and taking out the watch",
+        "father holding the watch and talking to his son, pointing toward the market"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Different prices",
+      "location": "market",
+      "narration": "The boy nodded and went to the market with the watch. He showed the watch to different people. One man said it was worth 500 rupees. Another said 1,000. Someone else said 800. Everyone gave a different price. Some people even gave the same price, but no one agreed completely.",
+      "images": [
+        "son walking into a busy village market, holding the watch",
+        "son showing the watch to three market people, each with a speech bubble showing 500, 800 and 1000"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Put it back",
+      "location": "home",
+      "narration": "The boy came back home and said, \"Father, everyone told me a different price for the watch.\" Some said 500, some said 800, and some said 1,000. The man smiled and said, \"All right, put the watch back in the cupboard.\"",
+      "images": [
+        "son talking to his father at home, father smiling calmly, watch in the boy's hand"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "The price of time",
+      "location": "home",
+      "narration": "The next day, the man called his son again. He asked him to bring the same watch. The boy brought it and gave it to his father. Then the father said, \"Now go to the market again. This time don't ask the price of the watch. Ask people the price of the time inside this watch.\"",
+      "images": [
+        "father handing the watch to his son in morning light, son listening with a puzzled face"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "A foolish question",
+      "location": "market",
+      "narration": "The boy was confused. He didn't understand what his father really meant. Still, he obeyed and went to the market again. He asked the people he met, \"How much is the time inside this watch worth?\" People looked at him strangely. Some laughed at him. Some told him to go away. Some said, \"What a foolish question.\" The boy felt embarrassed and sad.",
+      "images": [
+        "son asking a market person, who laughs while another waves him away",
+        "son standing alone in the market, looking down, embarrassed and sad"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "The old watch repairer",
+      "location": "watch shop",
+      "narration": "Finally, he stopped at a small shop where an old man was working. The old shopkeeper was busy repairing watches. When the boy asked him the same question, the old man paused his work. He looked at the boy with a kind smile. He understood what the boy was trying to ask.",
+      "images": [
+        "small watch repair shop, old shopkeeper looking up from his work with a kind smile, son standing at the counter"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "You cannot buy time",
+      "location": "watch shop",
+      "narration": "He said softly, \"Son, you cannot put a price on time. You can give millions of rupees, but you cannot buy back even one second of your life. That is why you must use your time wisely.\"",
+      "images": [
+        "shopkeeper speaking softly to the boy, a pile of coins on the counter beside a small clock"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "24 hours for everyone",
+      "location": "watch shop",
+      "narration": "The boy listened carefully. The old man continued, \"Time has one bad thing and one good thing. The bad thing is it passes. The good thing is you can choose how to spend it. Everyone in this world has 24 hours in a day. The rich and the poor both. The difference is how they use those hours.\"",
+      "images": [
+        "shopkeeper explaining with a finger raised, son listening carefully",
+        "big clock showing 24 hours, a rich man and a poor man standing on either side of it"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Father is proud",
+      "location": "home",
+      "narration": "The boy's eyes filled with understanding. Something changed inside him. He thanked the old man and went home quickly. He told his father everything that had happened in the market. The man smiled with pride and placed his hand on his son's shoulder.",
+      "images": [
+        "son running home with a bright face",
+        "father smiling with pride, hand on his son's shoulder"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "A changed life",
+      "location": "village",
+      "narration": "From that day on, the boy's life changed completely. He started working hard. He began using his time wisely. He stopped wasting his days wandering around. He understood the real value of every moment.",
+      "images": [
+        "son working hard in a field in the morning sun, smiling",
+        "son studying at a small table with an open book and the watch beside him"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "The lesson",
+      "location": "village",
+      "narration": "Friends, time is free for everyone. But it is priceless. You cannot buy it, but you can use it. You cannot keep it, but you can spend it. Once it is gone, you can never get it back. So use your time wisely.",
+      "images": [
+        "pocket watch glowing softly in the center, village sunrise in the background"
+      ]
+    }
+  ]
+}

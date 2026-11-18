@@ -5,8 +5,14 @@ from kokoro import KPipeline
 pipeline = KPipeline(lang_code="a")  # "a" = American English
 
 scenes = [
-    "The old watch ticked softly on the table.",
-    "Every tick was a moment that would never come back.",
+    "A boy always put off his tasks until tomorrow.",
+    "One day, an old gardener handed him a handful of seeds and said",
+    "Plant them before sundown, and they will grow into shade trees.",
+    "Wait until morning, and the birds will take them. The boy stopped to play first",
+    "Thinking he still had plenty of daylight.",
+    "When he finally reached the garden",
+    "The sun had set and the seeds were gone.",
+    "The secret isn't having more hours—it's acting while the light is still up."
 ]
 
 for n, text in enumerate(scenes, 1):
