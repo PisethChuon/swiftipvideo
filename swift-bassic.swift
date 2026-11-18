@@ -8,3 +8,7 @@ let number = convertedNumber!
 guard let number = convertedNumber else {
     fatalError("The number was invalid")
 }
+
+// The pipeline
+
+// Script → Voice → Images → Assemble → Subtitles → Check → Upload
