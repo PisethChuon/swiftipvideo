@@ -5,7 +5,7 @@ from kokoro import KPipeline
 pipeline = KPipeline(lang_code="a")  # "a" = American English
 
 scenes = [
-    "One day the man decided to teach his son a lesson. He called his son to him. He said gently, \"Son, there is a watch kept inside the cupboard. Bring it to me.\"",
+    "The boy went and opened the cupboard. He took out the watch and came back to his father. The father looked at the watch and then said, \"Now take this watch to the market. Ask everyone you meet how much they think it is worth.\"",
 ]
 
 for n, text in enumerate(scenes, 1):
